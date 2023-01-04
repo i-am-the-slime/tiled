@@ -3869,7 +3869,7 @@ Zeile %1, Spalte %2</translation>
         <location filename="../src/tiled/editpolygontool.cpp" line="+80"/>
         <location line="+270"/>
         <source>Edit Polygons</source>
-        <translation>Polgone bearbeiten</translation>
+        <translation>Polygone bearbeiten</translation>
     </message>
     <message>
         <location line="-22"/>
